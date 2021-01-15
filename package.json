@@ -1,0 +1,60 @@
+{
+  "name": "b2c-mini-uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-cookie": "^2.2.0",
+    "upng-js": "^2.1.0",
+    "uview-ui": "^1.2.3",
+    "weapp-qrcode": "^1.0.0"
+  },
+  "devDependencies": {
+    "qs": "^6.7.0"
+  },
+  "uni-app": {
+  	"scripts": {
+  		"xytest": {
+  			"title": "星云TEST",
+  			"env": {
+  				"UNI_PLATFORM": "mp-weixin"
+  			},
+  			"define": {
+  				"XYTEST": true
+  			}
+  		},
+  		"first-party-test": {
+  			"title": "TEST",
+  			"env": {
+  				"UNI_PLATFORM": "mp-weixin"
+  			},
+  			"define": {
+  				"FIRST-PARTY-TEST": true
+  			}
+  		},
+		"star": {
+			"title": "星云STAR",
+			"env": {
+				"UNI_PLATFORM": "mp-weixin"
+			},
+			"define": {
+				"STAR": true
+			}
+		}
+  	}
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

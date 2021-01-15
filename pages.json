@@ -1,0 +1,634 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/mainindex/main",
+			"style": {}
+		},
+		{
+			"path": "pages/authorization/main",
+			"style": {}
+		},
+		{
+			"path": "pages/mine/main",
+			"style": {}
+		},
+		{
+			"path": "pages/goodsList/main",
+			"style": {}
+		},
+		{
+			"path": "pages/web/main",
+			"style": {}
+		},
+		{
+			"path": "pages/shopcart/main",
+			"style": {}
+		},
+		{
+			"path": "pages/login/main",
+			"style": {}
+		},
+		{
+			"path": "pages/order/accounts/main",
+			"style": {}
+		},
+		{
+			"path": "pages/search_modules/index/main",
+			"style": {}
+		},
+		{
+			"path": "pages/search_modules/business/main",
+			"style": {}
+		},
+		{
+			"path": "pages/search_modules/shopList/index/main",
+			"style": {}
+		},
+		{
+			"path": "pages/evaluate/goodsEvaluates/main",
+			"style": {}
+		},
+		{
+			"path": "pages/pay/paySelect/main",
+			"style": {}
+		},
+		{
+			"path": "pages/pay/paySuccess/main",
+			"style": {}
+		},
+		{
+			"path": "pages/pay/payFail/main",
+			"style": {}
+		},
+		{
+			"path": "pages/integral_modules/index/main",
+			"style": {}
+		},
+		{
+			"path": "pages/collection_modules/history/main",
+			"style": {}
+		},
+		{
+			"path": "pages/logistics_modules/infor/main",
+			"style": {}
+		},
+		{
+			"path": "pages/collection_modules/goods/main",
+			"style": {}
+		},
+		{
+			"path": "pages/collection_modules/shop/main",
+			"style": {}
+		},
+		{
+			"path": "pages/evaluate_modules/index/main",
+			"style": {}
+		},
+		{
+			"path": "pages/evaluate_modules/evaluate/myComment/main",
+			"style": {}
+		},
+		{
+			"path": "pages/myStore/shop/main",
+			"style": {}
+		},
+		{
+			"path": "pages/promotion_modules/coupon/couponList/main",
+			"style": {}
+		},
+		{
+			"path": "pages/promotion_modules/coupon/couponCenter/main",
+			"style": {}
+		},
+		{
+			"path": "pages/share_web/main",
+			"style": {}
+		},
+		{
+			"path": "pages/pay/payPassword/main",
+			"style": {}
+		},
+		{
+			"path":"pages/live/main",
+			"style":{
+				"navigationBarTitleText":"直播间列表"
+			}
+		}
+    ],
+	"subPackages": [{
+			"root": "pages/Wallet_modules",
+			"name": "wallet",
+			"pages": [{
+				"path": "wallet/index/main",
+				"style": {}
+			}, {
+				"path": "wallet/cash/main",
+				"style": {}
+			}]
+		},
+		{
+			"root": "pages/user_modules",
+			"name": "user",
+			"pages": [{
+					"path": "personal/index/main",
+					"style": {}
+				},
+				{
+					"path": "personal/indexStyle2/main",
+					"style": {}
+				},
+				{
+					"path": "personal/o2o_index/main",
+					"style": {}
+				},
+				{
+					"path": "user/user-ui/webMail/main",
+					"style": {}
+				},
+				{
+					"path": "address/manage/main",
+					"style": {}
+				},
+				{
+					"path": "address/select/main",
+					"style": {}
+				},
+				{
+					"path": "address/add/main",
+					"style": {}
+				},
+				{
+					"path": "address/edit/main",
+					"style": {}
+				},
+				{
+					"path": "set/security/main",
+					"style": {}
+				},
+				{
+					"path": "set/newphone/main",
+					"style": {}
+				},
+				{
+					"path": "set/phone/main",
+					"style": {}
+				}
+
+				,
+				{
+					"path": "myInvite/myInvite/main",
+					"style": {}
+				},
+				{
+					"path": "invitation/main",
+					"style": {}
+				},
+				{
+					"path": "user/index/main",
+					"style": {}
+				},
+				{
+					"path": "achievement/indexComm/main",
+					"style": {}
+				},
+				{
+					"path": "distribGoods/distribGoods/main",
+					"style": {}
+				},
+				{
+					"path": "user/user-ui/mailDetail/main",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/order_modules",
+			"name": "order",
+			"pages": [{
+					"path": "order/index/main",
+					"style": {}
+				},
+				{
+					"path": "order/search/main",
+					"style": {}
+				},
+				{
+					"path": "order/searchResult/main",
+					"style": {}
+				},
+				{
+					"path": "order/infor/main",
+					"style": {}
+				},
+				{
+					"path": "refund/list/main",
+					"style": {}
+				},
+				{
+					"path": "refund/apply/main",
+					"style": {}
+				},
+				{
+					"path": "refund/infor/main",
+					"style": {}
+				},
+				{
+					"path": "refund/logistics/main",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/invoice_modules",
+			"name": "invoice",
+			"pages": [{
+					"path": "myInvoice/myInvo/main",
+					"style": {}
+				},
+				{
+					"path": "issueInvoice/issue/main",
+					"style": {}
+				},
+				{
+					"path": "addInfo/addInfo/main",
+					"style": {}
+				},
+				{
+					"path": "addInvoice/addInvo/main",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/my",
+			"name": "my",
+			"pages": [{
+					"path": "integralRule/main",
+					"style": {}
+				},
+				{
+					"path": "addInvoiceInfo/main",
+					"style": {}
+				},
+
+				{
+					"path": "editInvoiceInfo/main",
+					"style": {}
+				},
+				{
+					"path": "invoiceTitle/main",
+					"style": {}
+				},
+				{
+					"path": "bindPhone/main",
+					"style": {}
+				},
+				{
+					"path": "o2oInvoice/addInfo/addInfo/main",
+					"style": {}
+				},
+				{
+					"path": "o2oInvoice/addInvoice/addInvo/main",
+					"style": {}
+				},
+				{
+					"path": "o2oInvoice/issueInvoice/issue/main",
+					"style": {}
+				},
+				{
+					"path": "o2oInvoice/myInvoice/myInvo/main",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/o2o",
+			"name": "o2o",
+			"pages": [{
+					"path": "pages/o2o_ShoppingCart/main",
+					"style": {}
+				},
+				{
+					"path": "pages/goodsdetails_modules/o2o_goosDetail/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/distribution/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/closure/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/infor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/indexGroup/main",
+					"style": {}
+				},
+				{
+					"path": "pages/classify_modules/o2o_classify/main",
+					"style": {}
+				},
+				{
+					"path": "pages/classify_modules/o2o_foodsList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/classify_modules/o2o_foodsInfor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/classify_modules/o2o_articleList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/classify_modules/o2o_articleDetail/main",
+					"style": {}
+				},
+				{
+					"path": "pages/address_modules/address_manager/main",
+					"style": {}
+				},
+				{
+					"path": "pages/address_modules/address_add/main",
+					"style": {}
+				},
+				{
+					"path": "pages/address_modules/address_edit/main",
+					"style": {}
+				},
+				{
+					"path": "pages/address_modules/selectAddressList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/address_modules/shopSelectadrList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/user_modules/feedback/o2o_index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2oSearch_modules/searching/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2oSearch_modules/searchResult/main",
+					"style": {}
+				},
+				{
+					"path": "pages/helpCenter_modules/o2o_helpCenter/main",
+					"style": {}
+				},
+				{
+					"path": "pages/helpCenter_modules/o2o_helpDetail/main",
+					"style": {}
+				},
+				{
+					"path": "pages/mine/o2oNews_modules/news/main",
+					"style": {}
+				},
+				{
+					"path": "pages/mine/o2oNews_modules/newsActivity/main",
+					"style": {}
+				},
+				{
+					"path": "pages/mine/o2oNews_modules/newsLogistics/main",
+					"style": {}
+				},
+				{
+					"path": "pages/mine/o2oNews_modules/newsNotice/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2o_ShoppingCart/o2o_order/main",
+					"style": {}
+				},
+				{
+					"path": "pages/integral_modules/o2o_index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/promotion_modules/o2o_coupon/couponList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2o_collection/goods/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2o_collection/history/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2o_activity/center/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2o_activity/channel/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2o_activity/channelDetail/main",
+					"style": {}
+				},
+				{
+					"path": "pages/o2oPromotion_modules/coupon/couponList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/wallet/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/wallet/cash/main",
+					"style": {}
+				},
+				{
+					"path": "pages/achievement/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/statistics/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/mine/MemberCode/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/indexms/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/informs/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/inforGroup/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/indexGroupList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/inforGroupList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/search/main",
+					"style": {}
+				},
+				{
+					"path": "pages/order_modules/o2o_order/searchResult/main",
+					"style": {}
+				},
+				{
+					"path": "pages/promotion_modules/o2o_couponCenter/couponList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/promotion_modules/o2o_couponCenter/coupon/main",
+					"style": {}
+				},
+				{
+					"path": "pages/address_modules/ztAddress_manager/main",
+					"style": {}
+				}
+
+			]
+		},
+		{
+			"root": "pages/o2o_member",
+			"pages": [{
+					"path": "pages/MemberCode/main",
+					"style": {}
+				},
+				{
+					"path": "pages/orderList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/promotion/main",
+					"style": {}
+				},
+				{
+					"path": "pages/peopleInfor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/groupInfor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/appointment/main",
+					"style": {}
+				},
+				{
+					"path": "pages/group/main",
+					"style": {}
+				}
+
+			]
+		},
+		{
+			"root": "pages/marketing_module",
+			"name": "marketing",
+			"pages": [{
+					"path": "pages/groupBuy/gbgoodsdetails/main",
+					"style": {}
+				},
+				{
+					"path": "pages/groupBuy/grouporder_modules/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/groupBuy/grouporder_modules/infor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/assemble/assembleorder_modules/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/assemble/assembleorder_modules/infor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/seckill/seckillorder_modules/index/main",
+					"style": {}
+				},
+				{
+					"path": "pages/seckill/seckillorder_modules/infor/main",
+					"style": {}
+				},
+				{
+					"path": "pages/groupBuy/groupbugList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/assemble/assembleList/main",
+					"style": {}
+				},
+				{
+					"path": "pages/seckill/seckillList/main",
+					"style": {}
+				}
+			]
+		}
+	],
+	
+	// 预加载规则
+	"preloadRule": {
+		"pages/mine/main": {
+			"network": "all",
+			"packages": ["order", "invoice", "my", "wallet"]
+		},
+		"pages/web/main": {
+			"network": "all",
+			"packages": ["marketing", "user", "o2o"]
+		}
+	},
+	
+	//  全局style
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#b79f77",
+		"backgroundTextStyle": "light"
+	},
+	
+	// 只会在开发调试的时候编译进去，编译模式
+	"condition": {
+		"current": 0,
+		"list": [{
+			"name": "authorize",
+			"path": "pages/authorization/main",
+			"query": ""
+		}, {
+			"name": "invitation_register",
+			"path": "pages/user_modules/invitation/main",
+			"query": "code=duJLGR"
+		}, {
+			"name": "distribution_center",
+			"path": "pages/user_modules/user/index/main",
+			"query": ""
+		}, {
+			"name": "pay",
+			"path": "pages/pay/paySelect/main",
+			"query": ""
+		}]
+	}
+}
