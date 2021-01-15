@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "header-b": "/components/personal/headerB",
+    "profit-card": "/components/personal/profitCard",
+    "grid-list-four": "/components/personal/gridListFour"
+  }
+}

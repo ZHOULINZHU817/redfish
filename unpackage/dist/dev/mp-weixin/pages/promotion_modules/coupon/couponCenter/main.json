@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "coupon-list-item": "/components/coupon-list-item/coupon-list-item",
+    "common-header": "/components/communal/commonHeader",
+    "last-page-line": "/components/communal/last-page-line"
+  }
+}

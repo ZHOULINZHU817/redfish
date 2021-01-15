@@ -1,0 +1,48 @@
+.tabBar-box.data-v-42be14c0 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10rpx 0;
+  border-top: 1rpx solid #f5f5f5;
+  background-color: #fff;
+  z-index: 9999;
+}
+.tabBar-nav.data-v-42be14c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.tabBar-nav .item.data-v-42be14c0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.tabBar-nav .item-text.data-v-42be14c0 {
+  color: #969696;
+  font-size: 22rpx;
+  padding-top: 12rpx;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+.tabBar-nav .item-text-active.data-v-42be14c0 {
+  color: #b79f77;
+}
+.tabBar-nav .item-images.data-v-42be14c0 {
+  width: 34rpx;
+  height: 34rpx;
+  margin: 8rpx auto 0;
+  text-align: center;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+.tabBar-nav .item-images ._i.data-v-42be14c0 {
+  font-size: 34rpx;
+}
+.tabBar-nav .item-images ._img.data-v-42be14c0 {
+  display: inline;
+  width: 100%;
+  height: 100%;
+}
+

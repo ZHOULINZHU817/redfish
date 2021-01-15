@@ -18,35 +18,35 @@
     "qs": "^6.7.0"
   },
   "uni-app": {
-  	"scripts": {
-  		"xytest": {
-  			"title": "星云TEST",
-  			"env": {
-  				"UNI_PLATFORM": "mp-weixin"
-  			},
-  			"define": {
-  				"XYTEST": true
-  			}
-  		},
-  		"first-party-test": {
-  			"title": "TEST",
-  			"env": {
-  				"UNI_PLATFORM": "mp-weixin"
-  			},
-  			"define": {
-  				"FIRST-PARTY-TEST": true
-  			}
-  		},
-		"star": {
-			"title": "星云STAR",
-			"env": {
-				"UNI_PLATFORM": "mp-weixin"
-			},
-			"define": {
-				"STAR": true
-			}
-		}
-  	}
+    "scripts": {
+      "xytest": {
+        "title": "星云TEST",
+        "env": {
+          "UNI_PLATFORM": "mp-weixin"
+        },
+        "define": {
+          "XYTEST": true
+        }
+      },
+      "first-party-test": {
+        "title": "TEST",
+        "env": {
+          "UNI_PLATFORM": "mp-weixin"
+        },
+        "define": {
+          "FIRST-PARTY-TEST": true
+        }
+      },
+      "star": {
+        "title": "星云STAR",
+        "env": {
+          "UNI_PLATFORM": "mp-weixin"
+        },
+        "define": {
+          "STAR": true
+        }
+      }
+    }
   },
   "engines": {
     "node": ">= 4.0.0",

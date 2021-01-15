@@ -1,0 +1,149 @@
+
+.auto.data-v-1092f228 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-1092f228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-1092f228 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-1092f228 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-1092f228 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-1092f228 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-1092f228 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-1092f228 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-1092f228 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-1092f228 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-1092f228 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-1092f228 {
+  font-size: 30rpx;
+}
+.t-box.data-v-1092f228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-box-flex1.data-v-1092f228 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.shopList-left.data-v-1092f228 {
+  position: fixed;
+  z-index: 10000;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: left;
+  left: 30rpx;
+  top: 0;
+}
+.selectAddress.data-v-1092f228 {
+  background: #ffffff;
+  position: relative;
+  padding-top: 90rpx;
+}
+.selectAddress-search.data-v-1092f228 {
+  width: 90%;
+  margin: 5px auto;
+  border: 1px solid #c3c3c3;
+  height: 30px;
+  -webkit-border-radius: 3px;
+          border-radius: 3px;
+  padding: 0 5px;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 40px;
+          border-radius: 40px;
+  text-align: center;
+}
+.selectAddress-search input.data-v-1092f228 {
+  height: 30px;
+  line-height: 30px;
+  font-size: 28rpx;
+}
+.selectAddress-item.data-v-1092f228 {
+  border-bottom: 1px solid #eee;
+}
+.selectAddress-item .h1.data-v-1092f228 {
+  margin: 15px 20px 5px;
+  font-size: 15px;
+}
+.selectAddress-item .h1 ._h2.data-v-1092f228 {
+  font-size: 28rpx;
+  margin-bottom: 6rpx;
+}
+.selectAddress-item .h_address.data-v-1092f228 {
+  font-size: 12px;
+  color: gray;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.shoplist .current-location ._p.data-v-1092f228 {
+  padding: 15px 20px 5px;
+  font-size: 24rpx;
+}
+.shoplist .current-location ._p.data-v-1092f228:first-child {
+  background: #fafafa;
+  color: #999999;
+}
+.shoplist .current-location ._p:last-child ._i.data-v-1092f228 {
+  display: inline;
+  font-size: 24rpx;
+  font-weight: 400;
+}
+.shoplist .noshops.data-v-1092f228 {
+  padding: 15px 20px 5px;
+  font-size: 24rpx;
+}
+.shoplist .shops .shops-title.data-v-1092f228 {
+  padding: 15px 20px 5px;
+  background: #fafafa;
+  color: #999999;
+  font-size: 24rpx;
+}
+.shoplist .selectAddress-item .h1 ._p.data-v-1092f228 {
+  font-size: 24rpx;
+}
+.shoplist .selectAddress-item .h1 ._i.data-v-1092f228 {
+  font-size: 22rpx;
+}
+.orderLists-save.data-v-1092f228 {
+  position: fixed;
+  z-index: 9999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: right;
+  right: 30rpx;
+  top: 0;
+  font-size: 26rpx;
+}
+

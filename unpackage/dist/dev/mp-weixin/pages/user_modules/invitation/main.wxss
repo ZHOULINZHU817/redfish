@@ -1,0 +1,147 @@
+
+.auto.data-v-7450ecec {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-7450ecec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-7450ecec {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-7450ecec {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-7450ecec {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-7450ecec {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-7450ecec {
+  font-size: 22rpx;
+}
+.f-s23.data-v-7450ecec {
+  font-size: 23rpx;
+}
+.f-s24.data-v-7450ecec {
+  font-size: 24rpx;
+}
+.f-s26.data-v-7450ecec {
+  font-size: 26rpx;
+}
+.f-s28.data-v-7450ecec {
+  font-size: 28rpx;
+}
+.f-s30.data-v-7450ecec {
+  font-size: 30rpx;
+}
+.invitation.data-v-7450ecec {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  position: relative;
+}
+.invitation .content.data-v-7450ecec {
+  position: absolute;
+  top: 93rpx;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-position: 100% 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.invitation .content .outList.data-v-7450ecec {
+  /*position: relative;*/
+  position: absolute;
+  bottom: 50rpx;
+  left: 38rpx;
+  width: 674rpx;
+  margin: 0 auto;
+  height: 480rpx;
+  /*background-color: pink;*/
+  background-color: #ffffff;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  /*opacity: 0.6;*/
+  -webkit-box-shadow: 0rpx 0rpx 30rpx #eead0e inset;
+  box-shadow: 0rpx 0rpx 30rpx #eead0e inset;
+}
+.invitation .content .outList .list.data-v-7450ecec {
+  position: absolute;
+  padding: 10rpx;
+  bottom: 140rpx;
+  left: 80rpx;
+  right: 80rpx;
+  height: 275rpx;
+}
+.invitation .content .outList .list .one.data-v-7450ecec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1rpx solid #f1f1f1;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 86rpx;
+}
+.invitation .content .outList .list .one .left.data-v-7450ecec {
+  padding-left: 20rpx;
+  width: 110rpx;
+  line-height: 86rpx;
+  font-size: 28rpx;
+}
+.invitation .content .outList .list .one .right.data-v-7450ecec {
+  height: 84rpx;
+  line-height: 84rpx;
+}
+.invitation .content .outList .list .one .right input.data-v-7450ecec {
+  height: 84rpx;
+  padding-left: 25rpx;
+  background-color: #ffffff;
+  font-size: 24rpx;
+}
+.invitation .content .outList .list .codeList.data-v-7450ecec {
+  position: relative;
+}
+.invitation .content .outList .list .codeList .right input.data-v-7450ecec {
+  width: 180rpx;
+}
+.invitation .content .outList .list .codeList .code.data-v-7450ecec {
+  line-height: 40rpx;
+  font-size: 24rpx;
+  position: absolute;
+  width: 165rpx;
+  right: 0;
+  color: #b6b6b6;
+  height: 40rpx;
+  border-left: 1rpx solid #f1f1f1;
+  text-align: right;
+}
+.invitation .content .outList .button.data-v-7450ecec {
+  position: absolute;
+  bottom: 40rpx;
+  left: 78rpx;
+  width: 520rpx;
+  text-align: center;
+}
+.invitation .content .outList .button ._p.data-v-7450ecec {
+  height: 80rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  color: #ffffff;
+}
+

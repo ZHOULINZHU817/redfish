@@ -1,0 +1,81 @@
+
+.auto.data-v-98fefe7e {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-98fefe7e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-98fefe7e {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-98fefe7e {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-98fefe7e {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-98fefe7e {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-98fefe7e {
+  font-size: 22rpx;
+}
+.f-s23.data-v-98fefe7e {
+  font-size: 23rpx;
+}
+.f-s24.data-v-98fefe7e {
+  font-size: 24rpx;
+}
+.f-s26.data-v-98fefe7e {
+  font-size: 26rpx;
+}
+.f-s28.data-v-98fefe7e {
+  font-size: 28rpx;
+}
+.f-s30.data-v-98fefe7e {
+  font-size: 30rpx;
+}
+.user-headerB.data-v-98fefe7e {
+  height: 290rpx;
+  background: url('https://ttminib2c.xytest.qjclouds.com/paas/shop-master/c-static/images/wxminiImg/user_bg.jpg') no-repeat;
+  background-size: cover;
+}
+.user-headerB .user-info.data-v-98fefe7e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 0 20rpx;
+  position: relative;
+  top: 105rpx;
+}
+.user-headerB .user-info .header-img.data-v-98fefe7e {
+  width: 100rpx;
+  height: 100rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  overflow: hidden;
+}
+.user-headerB .user-info .user-info-right.data-v-98fefe7e {
+  padding-left: 20rpx;
+}
+.user-headerB .user-info .user-info-right .user-level.data-v-98fefe7e {
+  font-size: 28rpx;
+  padding-top: 10rpx;
+}
+.user-headerB .user-info .user-info-right .user-name.data-v-98fefe7e {
+  color: #fff;
+  font-size: 28rpx;
+  padding-bottom: 10rpx;
+}
+

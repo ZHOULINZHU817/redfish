@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "popup-layer": "/components/popup-layer/popup-layer",
+    "common-header": "/components/communal/commonHeader"
+  }
+}

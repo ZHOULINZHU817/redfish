@@ -1,0 +1,110 @@
+
+.auto.data-v-d8a7eb92 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-d8a7eb92 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-d8a7eb92 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-d8a7eb92 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-d8a7eb92 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-d8a7eb92 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-d8a7eb92 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-d8a7eb92 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-d8a7eb92 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-d8a7eb92 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-d8a7eb92 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-d8a7eb92 {
+  font-size: 30rpx;
+}
+.noimg.data-v-d8a7eb92 {
+  margin-top: 280rpx;
+}
+.noimg ._img.data-v-d8a7eb92 {
+  display: block;
+  width: 359rpx;
+  height: 276rpx;
+  margin: 0 auto;
+}
+.noimg ._p.data-v-d8a7eb92 {
+  margin-top: 40rpx;
+  height: 72rpx;
+  line-height: 72rpx;
+  text-align: center;
+  color: #999999;
+  font-size: 24rpx;
+}
+.webmail.data-v-d8a7eb92 {
+  width: 100%;
+  height: 100%;
+  background: #fafafa;
+}
+.webmail-left.data-v-d8a7eb92 {
+  position: fixed;
+  z-index: 9999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: left;
+  left: 30rpx;
+  top: 0;
+}
+.webmail-con.data-v-d8a7eb92 {
+  margin: 90rpx 30rpx 0;
+}
+.webmail-con ._ul ._li ._h1.data-v-d8a7eb92 {
+  height: 94rpx;
+  line-height: 94rpx;
+  text-align: center;
+  font-size: 22rpx;
+  color: #999;
+}
+.webmail-con ._ul ._li .webmail-box.data-v-d8a7eb92 {
+  padding: 30rpx 24rpx;
+  background: #fff;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
+}
+.webmail-con ._ul ._li .webmail-box ._h2.data-v-d8a7eb92 {
+  font-size: 30rpx;
+  color: #212121;
+  margin-bottom: 20rpx;
+}
+.webmail-con ._ul ._li .webmail-box ._p.data-v-d8a7eb92 {
+  color: #999;
+  font-size: 26rpx;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 640rpx;
+}
+

@@ -1,0 +1,108 @@
+
+.auto.data-v-247a52b8 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-247a52b8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-247a52b8 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-247a52b8 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-247a52b8 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-247a52b8 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-247a52b8 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-247a52b8 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-247a52b8 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-247a52b8 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-247a52b8 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-247a52b8 {
+  font-size: 30rpx;
+}
+.news.data-v-247a52b8 {
+  position: relative;
+  padding-top: 90rpx;
+}
+.news-save.data-v-247a52b8 {
+  position: fixed;
+  z-index: 99999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: right;
+  right: 30rpx;
+  top: 0;
+  font-size: 26rpx;
+}
+.news-item.data-v-247a52b8 {
+  border-bottom: 1rpx solid #f6f6f8;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  height: 150rpx;
+}
+.news-item .item-title.data-v-247a52b8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 20rpx;
+  margin-top: 30rpx;
+}
+.news-item .title1.data-v-247a52b8 {
+  font-size: 34rpx;
+}
+.news-item .title2.data-v-247a52b8 {
+  font-size: 26rpx;
+  color: #a4a4a4;
+  margin-top: 6rpx;
+}
+.news-item .red-number.data-v-247a52b8 {
+  background-color: #dc302c;
+  width: 40rpx;
+  height: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
+  text-align: center;
+  line-height: 40rpx;
+  position: absolute;
+  color: white;
+  right: 60rpx;
+  font-size: 24rpx;
+  margin-top: 55rpx;
+}
+

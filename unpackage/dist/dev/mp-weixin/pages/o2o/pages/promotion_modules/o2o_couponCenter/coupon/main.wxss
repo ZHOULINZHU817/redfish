@@ -1,0 +1,191 @@
+.tabBar-box.data-v-42be14c0 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10rpx 0;
+  border-top: 1rpx solid #f5f5f5;
+  background-color: #fff;
+  z-index: 9999;
+}
+.tabBar-nav.data-v-42be14c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.tabBar-nav .item.data-v-42be14c0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.tabBar-nav .item-text.data-v-42be14c0 {
+  color: #969696;
+  font-size: 22rpx;
+  padding-top: 12rpx;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+.tabBar-nav .item-text-active.data-v-42be14c0 {
+  color: #b79f77;
+}
+.tabBar-nav .item-images.data-v-42be14c0 {
+  width: 34rpx;
+  height: 34rpx;
+  margin: 8rpx auto 0;
+  text-align: center;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+.tabBar-nav .item-images ._i.data-v-42be14c0 {
+  font-size: 34rpx;
+}
+.tabBar-nav .item-images ._img.data-v-42be14c0 {
+  display: inline;
+  width: 100%;
+  height: 100%;
+}
+
+
+.auto.data-v-67db6be8 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-67db6be8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-67db6be8 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-67db6be8 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-67db6be8 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-67db6be8 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-67db6be8 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-67db6be8 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-67db6be8 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-67db6be8 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-67db6be8 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-67db6be8 {
+  font-size: 30rpx;
+}
+.couponList.data-v-67db6be8 {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+.couponList .couponList-get.data-v-67db6be8 {
+  position: fixed;
+  z-index: 9999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: right;
+  right: 30rpx;
+  top: 0;
+  font-size: 26rpx;
+}
+.couponList-con.data-v-67db6be8 {
+  margin-top: 90rpx;
+  padding: 15rpx 30rpx 0;
+}
+.couponList-con ._ul ._li.data-v-67db6be8 {
+  padding: 38rpx 33rpx 30rpx;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
+  -webkit-box-shadow: 0rpx 0rpx 30rpx #eee;
+          box-shadow: 0rpx 0rpx 30rpx #eee;
+  margin: 30rpx 0 20rpx;
+}
+.couponList-con ._ul ._li ._div.data-v-67db6be8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.couponList-con ._ul ._li ._div ._h1.data-v-67db6be8 {
+  color: #d66377;
+  font-size: 22rpx;
+  margin-right: 50rpx;
+  width: 136rpx;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.couponList-con ._ul ._li ._div ._h1 ._i.data-v-67db6be8 {
+  font-size: 50rpx;
+}
+.couponList-con ._ul ._li ._div ._h2.data-v-67db6be8 {
+  font-size: 22rpx;
+  color: #999;
+  width: 136rpx;
+  text-align: center;
+  margin-right: 50rpx;
+}
+.couponList-con ._ul ._li ._div ._h3.data-v-67db6be8 {
+  font-size: 30rpx;
+  color: #333;
+}
+.couponList-con ._ul ._li ._div ._h4.data-v-67db6be8 {
+  font-size: 20rpx;
+  color: #999;
+}
+.couponList-con ._ul .right.data-v-67db6be8 {
+  width: 80rpx;
+  height: 40rpx;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
+  background-color: #208e43;
+  line-height: 40rpx;
+  position: absolute;
+  right: 60rpx;
+  margin-top: -30rpx;
+  color: white;
+  font-size: 24rpx;
+  text-align: right;
+  padding-left: 30rpx;
+}
+.couponList-nulls.data-v-67db6be8 {
+  height: calc(100% - 202rpx);
+  text-align: center;
+}
+.couponList-nulls ._img.data-v-67db6be8 {
+  width: 395rpx;
+  height: 330rpx;
+  margin: 280rpx auto 0;
+}
+

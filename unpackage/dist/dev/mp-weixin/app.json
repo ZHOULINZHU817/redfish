@@ -1,0 +1,223 @@
+{
+  "pages": [
+    "pages/mainindex/main",
+    "pages/authorization/main",
+    "pages/mine/main",
+    "pages/goodsList/main",
+    "pages/web/main",
+    "pages/shopcart/main",
+    "pages/login/main",
+    "pages/order/accounts/main",
+    "pages/search_modules/index/main",
+    "pages/search_modules/business/main",
+    "pages/search_modules/shopList/index/main",
+    "pages/evaluate/goodsEvaluates/main",
+    "pages/pay/paySelect/main",
+    "pages/pay/paySuccess/main",
+    "pages/pay/payFail/main",
+    "pages/integral_modules/index/main",
+    "pages/collection_modules/history/main",
+    "pages/logistics_modules/infor/main",
+    "pages/collection_modules/goods/main",
+    "pages/collection_modules/shop/main",
+    "pages/evaluate_modules/index/main",
+    "pages/evaluate_modules/evaluate/myComment/main",
+    "pages/myStore/shop/main",
+    "pages/promotion_modules/coupon/couponList/main",
+    "pages/promotion_modules/coupon/couponCenter/main",
+    "pages/share_web/main",
+    "pages/pay/payPassword/main",
+    "pages/live/main"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/Wallet_modules",
+      "pages": [
+        "wallet/index/main",
+        "wallet/cash/main"
+      ],
+      "name": "wallet"
+    },
+    {
+      "root": "pages/user_modules",
+      "pages": [
+        "personal/index/main",
+        "personal/indexStyle2/main",
+        "personal/o2o_index/main",
+        "user/user-ui/webMail/main",
+        "address/manage/main",
+        "address/select/main",
+        "address/add/main",
+        "address/edit/main",
+        "set/security/main",
+        "set/newphone/main",
+        "set/phone/main",
+        "myInvite/myInvite/main",
+        "invitation/main",
+        "user/index/main",
+        "achievement/indexComm/main",
+        "distribGoods/distribGoods/main",
+        "user/user-ui/mailDetail/main"
+      ],
+      "name": "user"
+    },
+    {
+      "root": "pages/order_modules",
+      "pages": [
+        "order/index/main",
+        "order/search/main",
+        "order/searchResult/main",
+        "order/infor/main",
+        "refund/list/main",
+        "refund/apply/main",
+        "refund/infor/main",
+        "refund/logistics/main"
+      ],
+      "name": "order"
+    },
+    {
+      "root": "pages/invoice_modules",
+      "pages": [
+        "myInvoice/myInvo/main",
+        "issueInvoice/issue/main",
+        "addInfo/addInfo/main",
+        "addInvoice/addInvo/main"
+      ],
+      "name": "invoice"
+    },
+    {
+      "root": "pages/my",
+      "pages": [
+        "integralRule/main",
+        "addInvoiceInfo/main",
+        "editInvoiceInfo/main",
+        "invoiceTitle/main",
+        "bindPhone/main",
+        "o2oInvoice/addInfo/addInfo/main",
+        "o2oInvoice/addInvoice/addInvo/main",
+        "o2oInvoice/issueInvoice/issue/main",
+        "o2oInvoice/myInvoice/myInvo/main"
+      ],
+      "name": "my"
+    },
+    {
+      "root": "pages/o2o",
+      "pages": [
+        "pages/o2o_ShoppingCart/main",
+        "pages/goodsdetails_modules/o2o_goosDetail/main",
+        "pages/order_modules/o2o_order/index/main",
+        "pages/order_modules/o2o_order/distribution/main",
+        "pages/order_modules/o2o_order/closure/main",
+        "pages/order_modules/o2o_order/infor/main",
+        "pages/order_modules/o2o_order/indexGroup/main",
+        "pages/classify_modules/o2o_classify/main",
+        "pages/classify_modules/o2o_foodsList/main",
+        "pages/classify_modules/o2o_foodsInfor/main",
+        "pages/classify_modules/o2o_articleList/main",
+        "pages/classify_modules/o2o_articleDetail/main",
+        "pages/address_modules/address_manager/main",
+        "pages/address_modules/address_add/main",
+        "pages/address_modules/address_edit/main",
+        "pages/address_modules/selectAddressList/main",
+        "pages/address_modules/shopSelectadrList/main",
+        "pages/user_modules/feedback/o2o_index/main",
+        "pages/o2oSearch_modules/searching/main",
+        "pages/o2oSearch_modules/searchResult/main",
+        "pages/helpCenter_modules/o2o_helpCenter/main",
+        "pages/helpCenter_modules/o2o_helpDetail/main",
+        "pages/mine/o2oNews_modules/news/main",
+        "pages/mine/o2oNews_modules/newsActivity/main",
+        "pages/mine/o2oNews_modules/newsLogistics/main",
+        "pages/mine/o2oNews_modules/newsNotice/main",
+        "pages/o2o_ShoppingCart/o2o_order/main",
+        "pages/integral_modules/o2o_index/main",
+        "pages/promotion_modules/o2o_coupon/couponList/main",
+        "pages/o2o_collection/goods/main",
+        "pages/o2o_collection/history/main",
+        "pages/o2o_activity/center/main",
+        "pages/o2o_activity/channel/main",
+        "pages/o2o_activity/channelDetail/main",
+        "pages/o2oPromotion_modules/coupon/couponList/main",
+        "pages/wallet/index/main",
+        "pages/wallet/cash/main",
+        "pages/achievement/index/main",
+        "pages/statistics/index/main",
+        "pages/mine/MemberCode/main",
+        "pages/order_modules/o2o_order/indexms/main",
+        "pages/order_modules/o2o_order/informs/main",
+        "pages/order_modules/o2o_order/inforGroup/main",
+        "pages/order_modules/o2o_order/indexGroupList/main",
+        "pages/order_modules/o2o_order/inforGroupList/main",
+        "pages/order_modules/o2o_order/search/main",
+        "pages/order_modules/o2o_order/searchResult/main",
+        "pages/promotion_modules/o2o_couponCenter/couponList/main",
+        "pages/promotion_modules/o2o_couponCenter/coupon/main",
+        "pages/address_modules/ztAddress_manager/main"
+      ],
+      "name": "o2o"
+    },
+    {
+      "root": "pages/o2o_member",
+      "pages": [
+        "pages/MemberCode/main",
+        "pages/orderList/main",
+        "pages/promotion/main",
+        "pages/peopleInfor/main",
+        "pages/groupInfor/main",
+        "pages/appointment/main",
+        "pages/group/main"
+      ]
+    },
+    {
+      "root": "pages/marketing_module",
+      "pages": [
+        "pages/groupBuy/gbgoodsdetails/main",
+        "pages/groupBuy/grouporder_modules/index/main",
+        "pages/groupBuy/grouporder_modules/infor/main",
+        "pages/assemble/assembleorder_modules/index/main",
+        "pages/assemble/assembleorder_modules/infor/main",
+        "pages/seckill/seckillorder_modules/index/main",
+        "pages/seckill/seckillorder_modules/infor/main",
+        "pages/groupBuy/groupbugList/main",
+        "pages/assemble/assembleList/main",
+        "pages/seckill/seckillList/main"
+      ],
+      "name": "marketing"
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#b79f77",
+    "backgroundTextStyle": "light"
+  },
+  "preloadRule": {
+    "pages/mine/main": {
+      "network": "all",
+      "packages": [
+        "order",
+        "invoice",
+        "my",
+        "wallet"
+      ]
+    },
+    "pages/web/main": {
+      "network": "all",
+      "packages": [
+        "marketing",
+        "user",
+        "o2o"
+      ]
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "common-header": "/components/communal/commonHeader",
+    "last-page-line": "/components/communal/last-page-line"
+  }
+}

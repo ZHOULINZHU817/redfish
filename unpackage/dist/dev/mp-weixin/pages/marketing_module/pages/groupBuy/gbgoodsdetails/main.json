@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "common-header": "/components/communal/commonHeader",
+    "banner": "/pages/compenent_modules/group_banner/index",
+    "specs": "/pages/compenent_modules/o2o_specs/index",
+    "promotions": "/pages/compenent_modules/o2o_Promotion/index",
+    "coupon": "/pages/compenent_modules/o2o_coupon/index",
+    "delivery": "/pages/compenent_modules/o2o_delivery/index",
+    "evaluate": "/pages/compenent_modules/o2o_evaluate/index",
+    "pro-infor": "/pages/compenent_modules/o2o_proInfor/index",
+    "footers": "/pages/compenent_modules/group_footer/index"
+  }
+}

@@ -1,0 +1,133 @@
+
+.auto.data-v-f13a48c4 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-f13a48c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-f13a48c4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-f13a48c4 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-f13a48c4 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-f13a48c4 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-f13a48c4 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-f13a48c4 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-f13a48c4 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-f13a48c4 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-f13a48c4 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-f13a48c4 {
+  font-size: 30rpx;
+}
+.t-box.data-v-f13a48c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-box-flex1.data-v-f13a48c4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-box-flex2.data-v-f13a48c4 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.t-box-flex3.data-v-f13a48c4 {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+}
+.mar-r20.data-v-f13a48c4 {
+  margin-right: 20rpx;
+}
+.mar-t6.data-v-f13a48c4 {
+  margin-top: 8rpx;
+}
+.text-left.data-v-f13a48c4 {
+  text-align: left;
+}
+.text-right.data-v-f13a48c4 {
+  text-align: right;
+}
+.text-center.data-v-f13a48c4 {
+  text-align: center;
+}
+.font-12.data-v-f13a48c4 {
+  font-size: 24rpx;
+}
+.color-999.data-v-f13a48c4 {
+  color: #999999;
+}
+.footer-box.data-v-f13a48c4 {
+  position: fixed;
+  bottom: 0rpx;
+  height: 98rpx;
+  left: 0rpx;
+  width: 100%;
+  z-index: 100001;
+  background: #fff;
+}
+.footer-box .footer .addcar.data-v-f13a48c4 {
+  text-align: center;
+  color: #fff;
+  font-size: 32rpx;
+  line-height: 98rpx;
+}
+.ceng.data-v-f13a48c4 {
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100001;
+}
+.customer-service.data-v-f13a48c4 {
+  position: fixed;
+  left: 7.5%;
+  width: 85%;
+  z-index: 100001;
+  margin: 0 auto;
+}
+.customer-service ._ul.data-v-f13a48c4 {
+  height: 140rpx;
+}
+.customer-service ._ul ._li.data-v-f13a48c4 {
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  margin-bottom: 8rpx;
+  background: #fff;
+}
+

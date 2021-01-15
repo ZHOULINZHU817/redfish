@@ -1,0 +1,165 @@
+
+.auto.data-v-57510ef5 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-57510ef5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-57510ef5 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-57510ef5 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-57510ef5 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-57510ef5 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-57510ef5 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-57510ef5 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-57510ef5 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-57510ef5 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-57510ef5 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-57510ef5 {
+  font-size: 30rpx;
+}
+.t-box.data-v-57510ef5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-box-flex1.data-v-57510ef5 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.HelpCenter.data-v-57510ef5 {
+  position: relative;
+  padding-top: 90rpx;
+}
+.HelpCenter-top.data-v-57510ef5 {
+  position: relative;
+  top: 0;
+}
+.HelpCenter-banner.data-v-57510ef5 {
+  width: 100%;
+  height: 296rpx;
+}
+.HelpCenter-list.data-v-57510ef5 {
+  margin-top: 30rpx;
+}
+.HelpCenter-center.data-v-57510ef5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  position: absolute;
+  top: 30rpx;
+  width: 100%;
+  height: 246rpx;
+  color: white;
+  text-align: center;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+}
+.HelpCenter-center .top-title.data-v-57510ef5 {
+  font-size: 44rpx;
+}
+.HelpCenter-center .top-click.data-v-57510ef5 {
+  font-size: 32rpx;
+  width: 230rpx;
+  height: 70rpx;
+  -webkit-border-radius: 35rpx;
+          border-radius: 35rpx;
+  border: 1px solid white;
+  line-height: 70rpx;
+  margin-left: 260rpx;
+  margin-top: 20rpx;
+}
+.HelpCenter .title.data-v-57510ef5 {
+  text-align: center;
+  color: #acacac;
+}
+.HelpCenter .center-list.data-v-57510ef5 {
+  margin-top: 30rpx;
+}
+.HelpCenter .center-list .help-list .questions.data-v-57510ef5 {
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  border-bottom: 1rpx solid #eeeeee;
+  height: 104rpx;
+  line-height: 104rpx;
+}
+.HelpCenter .center-list .help-list .questions .title-icon.data-v-57510ef5 {
+  height: 30rpx;
+  width: 30rpx;
+  text-align: center;
+  color: #fff;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+  line-height: 30rpx;
+  margin-right: 20rpx;
+  margin-top: 38rpx;
+}
+.HelpCenter .center-list .help-list .questions .title-name.data-v-57510ef5 {
+  width: 90%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.HelpCenter .ceng.data-v-57510ef5 {
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100001;
+}
+.HelpCenter .customer-service.data-v-57510ef5 {
+  position: fixed;
+  left: 7.5%;
+  width: 85%;
+  z-index: 100001;
+  margin: 0 auto;
+}
+.HelpCenter .customer-service ._ul.data-v-57510ef5 {
+  height: 70px;
+}
+.HelpCenter .customer-service ._ul ._li.data-v-57510ef5 {
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  -webkit-border-radius: 4px;
+          border-radius: 4px;
+  margin-bottom: 4px;
+  background: #fff;
+}
+

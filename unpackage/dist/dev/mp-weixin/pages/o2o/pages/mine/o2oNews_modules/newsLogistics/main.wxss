@@ -1,0 +1,110 @@
+
+.auto.data-v-2fbb6496 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-2fbb6496 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-2fbb6496 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-2fbb6496 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-2fbb6496 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-2fbb6496 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-2fbb6496 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-2fbb6496 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-2fbb6496 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-2fbb6496 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-2fbb6496 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-2fbb6496 {
+  font-size: 30rpx;
+}
+.Logistics.data-v-2fbb6496 {
+  position: relative;
+  padding-top: 90rpx;
+  height: 100%;
+  background-color: #edeeef;
+}
+.Logistics-item .timeTitle.data-v-2fbb6496 {
+  text-align: center;
+  color: #aeaeae;
+  font-size: 24rpx;
+  margin-top: 30rpx;
+}
+.Logistics-item .itemCenter.data-v-2fbb6496 {
+  background-color: white;
+  margin-left: 20rpx;
+  margin-top: 30rpx;
+  width: 710rpx;
+  height: 260rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.Logistics-item .detailCenter.data-v-2fbb6496 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+}
+.Logistics-item .title.data-v-2fbb6496 {
+  margin-top: 30rpx;
+  margin-left: 30rpx;
+  font-size: 36rpx;
+}
+.Logistics-item .subTitle.data-v-2fbb6496 {
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  font-size: 32rpx;
+  color: #a1a1a1;
+}
+.Logistics-item .subTitle1.data-v-2fbb6496 {
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  color: #aeaeae;
+}
+.Logistics-item .otherTitle.data-v-2fbb6496 {
+  margin-top: 60rpx;
+  position: absolute;
+  right: 60rpx;
+  color: #a2a2a2;
+  font-size: 28rpx;
+}
+

@@ -1,0 +1,98 @@
+
+.auto.data-v-7df85886 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-7df85886 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-7df85886 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-7df85886 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-7df85886 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-7df85886 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-7df85886 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-7df85886 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-7df85886 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-7df85886 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-7df85886 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-7df85886 {
+  font-size: 30rpx;
+}
+.paySuccess.data-v-7df85886 {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  margin-top: 90rpx;
+}
+.paySuccess-tit.data-v-7df85886 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 190rpx 0 138rpx;
+}
+.paySuccess-tit ._i.data-v-7df85886 {
+  margin-right: 20rpx;
+  color: #b79f77;
+  font-size: 54rpx;
+}
+.paySuccess-tit ._span.data-v-7df85886 {
+  font-size: 36rpx;
+  color: #b79f77;
+}
+.paySuccess-btn.data-v-7df85886 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 0 61rpx;
+}
+.paySuccess-btn ._div.data-v-7df85886 {
+  width: 292rpx;
+  height: 82rpx;
+  line-height: 82rpx;
+  text-align: center;
+  color: #b79f77;
+  border: 1rpx solid #b79f77;
+  -webkit-border-radius: 4rpx;
+          border-radius: 4rpx;
+  font-size: 24rpx;
+}
+.paySuccess-btn ._div.data-v-7df85886:last-child {
+  background: #b79f77;
+  color: #fff;
+  margin-left: 42rpx;
+}
+

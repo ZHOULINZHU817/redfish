@@ -1,0 +1,101 @@
+
+.auto.data-v-adb72f2e {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-adb72f2e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-adb72f2e {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-adb72f2e {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-adb72f2e {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-adb72f2e {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-adb72f2e {
+  font-size: 22rpx;
+}
+.f-s23.data-v-adb72f2e {
+  font-size: 23rpx;
+}
+.f-s24.data-v-adb72f2e {
+  font-size: 24rpx;
+}
+.f-s26.data-v-adb72f2e {
+  font-size: 26rpx;
+}
+.f-s28.data-v-adb72f2e {
+  font-size: 28rpx;
+}
+.f-s30.data-v-adb72f2e {
+  font-size: 30rpx;
+}
+.newsActivity.data-v-adb72f2e {
+  position: relative;
+  padding-top: 90rpx;
+  background-color: #edeeef;
+}
+.newsActivity-save.data-v-adb72f2e {
+  position: fixed;
+  z-index: 99999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: right;
+  right: 30rpx;
+  top: 0;
+  font-size: 26rpx;
+}
+.newsActivity-item .timeTitle.data-v-adb72f2e {
+  text-align: center;
+  color: #aeaeae;
+  font-size: 24rpx;
+  margin-top: 30rpx;
+}
+.newsActivity-item .itemCenter.data-v-adb72f2e {
+  background-color: white;
+  margin-left: 20rpx;
+  margin-top: 30rpx;
+  width: 710rpx;
+  height: 500rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.newsActivity-item .title.data-v-adb72f2e {
+  margin-top: 30rpx;
+  margin-left: 30rpx;
+  font-size: 36rpx;
+}
+.newsActivity-item .subTitle.data-v-adb72f2e {
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  font-size: 32rpx;
+  color: #a1a1a1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+

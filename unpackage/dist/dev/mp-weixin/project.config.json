@@ -1,0 +1,82 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": false,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": false,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"compileHotReLoad": false,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "",
+	"appid": "wx2df07ad0ee321b3f",
+	"projectname": "b2c-mini-uni",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"name": "authorize",
+					"query": "",
+					"id": 0,
+					"pathName": "pages/authorization/main"
+				},
+				{
+					"name": "invitation_register",
+					"query": "code=duJLGR",
+					"id": 1,
+					"pathName": "pages/user_modules/invitation/main"
+				},
+				{
+					"name": "distribution_center",
+					"query": "",
+					"id": 2,
+					"pathName": "pages/user_modules/user/index/main"
+				},
+				{
+					"name": "pay",
+					"query": "",
+					"id": 3,
+					"pathName": "pages/pay/paySelect/main"
+				}
+			]
+		}
+	}
+}

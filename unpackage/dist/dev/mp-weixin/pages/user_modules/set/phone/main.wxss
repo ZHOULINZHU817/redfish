@@ -1,0 +1,59 @@
+.set-phone.data-v-43fa16cc {
+  width: 100%;
+  height: 100%;
+  background: #fafafa;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.set-phone .content.data-v-43fa16cc {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-top: 110rpx;
+  font-size: 26rpx;
+  color: #333333;
+}
+.set-phone .content ._ul.data-v-43fa16cc {
+  background: #ffffff;
+}
+.set-phone .content ._ul ._li.data-v-43fa16cc {
+  margin: 0 20rpx;
+}
+.set-phone .content ._ul .already-bind-phone.data-v-43fa16cc {
+  padding: 34rpx 0;
+  border-bottom: 1px solid #f5f5f5 !important;
+}
+.set-phone .content ._ul .input-code.data-v-43fa16cc {
+  padding: 34rpx 0;
+}
+.set-phone .content ._ul .input-code-container.data-v-43fa16cc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.set-phone .content ._ul .input-code-container .inputs.data-v-43fa16cc {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.set-phone .content ._ul .input-code-container .code.data-v-43fa16cc {
+  padding-left: 30rpx;
+  border-left: 1px solid #efefef;
+}
+.set-phone .btn.data-v-43fa16cc {
+  height: 80rpx;
+  width: 100%;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 30rpx;
+  color: #ffffff;
+}
+

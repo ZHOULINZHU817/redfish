@@ -1,0 +1,173 @@
+
+.auto.data-v-92bb8c4a {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-92bb8c4a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-92bb8c4a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-92bb8c4a {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-92bb8c4a {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-92bb8c4a {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-92bb8c4a {
+  font-size: 22rpx;
+}
+.f-s23.data-v-92bb8c4a {
+  font-size: 23rpx;
+}
+.f-s24.data-v-92bb8c4a {
+  font-size: 24rpx;
+}
+.f-s26.data-v-92bb8c4a {
+  font-size: 26rpx;
+}
+.f-s28.data-v-92bb8c4a {
+  font-size: 28rpx;
+}
+.f-s30.data-v-92bb8c4a {
+  font-size: 30rpx;
+}
+.evaluateList.data-v-92bb8c4a {
+  background: #fff;
+  width: 100%;
+  padding-top: 90rpx;
+}
+.evaluateList ._ul ._li.data-v-92bb8c4a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: cener;
+  -webkit-align-items: cener;
+          align-items: cener;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  padding: 34rpx 30rpx;
+  border-bottom: 1rpx solid #eee;
+}
+.evaluateList ._ul ._li ._img.data-v-92bb8c4a {
+  width: 110rpx;
+  height: 110rpx;
+  margin-right: 28rpx;
+}
+.evaluateList ._ul ._li ._h3.data-v-92bb8c4a {
+  font-size: 26rpx;
+  color: #212121;
+  margin-bottom: 30rpx;
+}
+.evaluateList ._ul ._li ._p ._i.data-v-92bb8c4a {
+  float: left;
+  margin-right: 26rpx;
+  color: #efefef;
+}
+.evaluateList-text.data-v-92bb8c4a {
+  padding: 30rpx 30rpx 40rpx;
+  border-bottom: 1rpx solid #eee;
+}
+.evaluateList-text textarea.data-v-92bb8c4a {
+  height: 170rpx;
+  width: 100%;
+  color: #ccc;
+}
+.evaluateList-text-img ._h4.data-v-92bb8c4a {
+  margin: 30rpx 0;
+  font-size: 28rpx;
+  padding-left: 30rpx;
+}
+.evaluateList-text-img-box .show-apply-img.data-v-92bb8c4a {
+  padding: 20rpx 0;
+  overflow: hidden;
+  zoom: 1;
+}
+.evaluateList-text-img-box .show-apply-img ._dd.data-v-92bb8c4a {
+  position: relative;
+  width: 154rpx;
+  height: 154rpx;
+  float: left;
+  margin: 0 10rpx 30rpx;
+}
+.evaluateList-text-img-box .show-apply-img ._dd.data-v-92bb8c4a:first-child {
+  margin: 0 10rpx 30rpx 0;
+}
+.evaluateList-text-img-box .show-apply-img ._dd.data-v-92bb8c4a:nth-child(4) {
+  margin: 0 0 30rpx 10;
+}
+.evaluateList-text-img-box .show-apply-img ._dd .dd-img.data-v-92bb8c4a {
+  width: 150rpx;
+  height: 150rpx;
+  overflow: hidden;
+}
+.evaluateList-text-img-box .show-apply-img ._dd .dd-img .icon-delete.data-v-92bb8c4a {
+  position: absolute;
+  right: -15rpx;
+  top: -15rpx;
+  z-index: 2;
+}
+.evaluateList-text-img-box .show-apply-img ._dd .dd-img ._img.data-v-92bb8c4a {
+  width: 150rpx;
+  height: 150rpx;
+}
+.evaluateList-text-img-box .show-apply-img form.data-v-92bb8c4a {
+  width: 150rpx;
+  height: 150rpx;
+  background: #fff;
+  border: 1px dashed #d2d2d2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+}
+.evaluateList-text-img-box .show-apply-img form ._i.data-v-92bb8c4a {
+  font-size: 57rpx;
+  color: #d2d2d2;
+}
+.evaluateList-text-img-box .show-apply-img form ._p.data-v-92bb8c4a {
+  color: #d2d2d2;
+  font-size: 20rpx;
+}
+.evaluateList-text-img-box .show-apply-img form input[type='file'].data-v-92bb8c4a {
+  width: 150rpx;
+  height: 150rpx;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+.evaluateList-addSubmit.data-v-92bb8c4a {
+  width: 590rpx;
+  height: 84rpx;
+  margin: 132rpx auto 0;
+  line-height: 84rpx;
+  text-align: center;
+  color: #fff;
+  -webkit-border-radius: 6rpx;
+          border-radius: 6rpx;
+  font-size: 28rpx;
+}
+

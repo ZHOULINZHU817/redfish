@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u-message-input": "/node-modules/uview-ui/components/u-message-input/u-message-input",
+    "common-header": "/components/communal/commonHeader"
+  }
+}

@@ -1,0 +1,120 @@
+
+.auto.data-v-72ed11ab {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-72ed11ab {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-72ed11ab {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-72ed11ab {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-72ed11ab {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-72ed11ab {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-72ed11ab {
+  font-size: 22rpx;
+}
+.f-s23.data-v-72ed11ab {
+  font-size: 23rpx;
+}
+.f-s24.data-v-72ed11ab {
+  font-size: 24rpx;
+}
+.f-s26.data-v-72ed11ab {
+  font-size: 26rpx;
+}
+.f-s28.data-v-72ed11ab {
+  font-size: 28rpx;
+}
+.f-s30.data-v-72ed11ab {
+  font-size: 30rpx;
+}
+.shopList.data-v-72ed11ab {
+  width: 100%;
+  background: #f9f9f9;
+  height: auto;
+}
+.shopList-left.data-v-72ed11ab {
+  position: fixed;
+  z-index: 9999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: left;
+  left: 30rpx;
+  top: 0;
+}
+.shopList-con.data-v-72ed11ab {
+  margin: 30rpx 30rpx 0;
+  padding-top: 90rpx;
+}
+.shopList-con ._ul ._li.data-v-72ed11ab {
+  margin-bottom: 20rpx;
+  width: 690rpx;
+  height: 158rpx;
+  background: #fff;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+}
+.shopList-con ._ul ._li ._a.data-v-72ed11ab {
+  width: 690rpx;
+  height: 158rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.shopList-con ._ul ._li ._a ._img.data-v-72ed11ab {
+  width: 77rpx;
+  height: 77rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  margin: 0 16rpx 0 20rpx;
+}
+.shopList-con ._ul ._li ._a ._div.data-v-72ed11ab {
+  width: 545rpx;
+}
+.shopList-con ._ul ._li ._a ._div ._h2.data-v-72ed11ab {
+  font-size: 30rpx;
+  color: #252525;
+  margin-bottom: 12rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.shopList-con ._ul ._li ._a ._div ._h2 ._i.data-v-72ed11ab {
+  font-size: 30rpx;
+  color: #707070;
+  padding-left: 10rpx;
+}
+.shopList-con ._ul ._li ._a ._div ._p.data-v-72ed11ab {
+  width: 545rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 24rpx;
+  color: #676767;
+}
+

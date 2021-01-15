@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "common-header": "/components/communal/commonHeader",
+    "vue-tab-bar": "/components/communal/vueTabBar"
+  }
+}

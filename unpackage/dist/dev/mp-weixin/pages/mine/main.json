@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "header-center": "/components/personal/index",
+    "get-user-info": "/components/communal/getUserInfo",
+    "vue-tab-bar": "/components/communal/vueTabBar"
+  }
+}

@@ -1,0 +1,70 @@
+
+.auto {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22 {
+  font-size: 22rpx;
+}
+.f-s23 {
+  font-size: 23rpx;
+}
+.f-s24 {
+  font-size: 24rpx;
+}
+.f-s26 {
+  font-size: 26rpx;
+}
+.f-s28 {
+  font-size: 28rpx;
+}
+.f-s30 {
+  font-size: 30rpx;
+}
+.appointment {
+  background-image: url("https://qjstatic.oss-cn-shanghai.aliyuncs.com/img/bg.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.appointment .input {
+  width: 80%;
+  margin: 300rpx 10% 0;
+}
+.appointment .input input {
+  height: 88rpx;
+  line-height: 88rpx;
+  border-bottom: 1rpx solid #fff;
+  color: #fff;
+  margin: 20rpx 0 0;
+}
+.appointment .btn {
+  margin-top: 50rpx;
+  background: #07913b;
+}
+

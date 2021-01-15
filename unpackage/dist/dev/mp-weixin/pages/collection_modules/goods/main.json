@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/components/uni-swipe-action-item/uni-swipe-action-item",
+    "common-header": "/components/communal/commonHeader",
+    "last-page-line": "/components/communal/last-page-line"
+  }
+}

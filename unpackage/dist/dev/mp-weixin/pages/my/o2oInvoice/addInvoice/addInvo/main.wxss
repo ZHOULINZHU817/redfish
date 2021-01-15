@@ -1,0 +1,191 @@
+
+.auto.data-v-0425d138 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-0425d138 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-0425d138 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-0425d138 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-0425d138 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-0425d138 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-0425d138 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-0425d138 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-0425d138 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-0425d138 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-0425d138 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-0425d138 {
+  font-size: 30rpx;
+}
+.addInvoice.data-v-0425d138 {
+  width: 100%;
+}
+.addInvoice-save.data-v-0425d138 {
+  position: fixed;
+  z-index: 99999;
+  height: 90rpx;
+  width: 70rpx;
+  line-height: 90rpx;
+  text-align: right;
+  right: 30rpx;
+  top: 0;
+  font-size: 26rpx;
+}
+.addInvoice-info.data-v-0425d138 {
+  padding-top: 90rpx;
+}
+.addInvoice-info ._ul.data-v-0425d138 {
+  padding: 0 30rpx;
+}
+.addInvoice-info ._ul ._li.data-v-0425d138 {
+  border-bottom: 1rpx solid #f6f6f8;
+  height: 90rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 26rpx;
+  color: #333;
+}
+.addInvoice-info ._ul ._li input.data-v-0425d138 {
+  width: 450rpx;
+  text-align: right;
+}
+.addInvoice-info ._ul ._li input.data-v-0425d138::-webkit-input-placeholder {
+  color: #ccc;
+}
+.addInvoice-info ._ul ._li input.data-v-0425d138::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #ccc;
+}
+.addInvoice-info ._ul ._li input.data-v-0425d138:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #ccc;
+}
+.addInvoice-info ._ul ._li input.data-v-0425d138:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #ccc;
+}
+.addInvoice-info ._ul ._li.data-v-0425d138:nth-child(7) {
+  height: 180rpx;
+}
+.addInvoice-info ._ul ._li .dd-img.data-v-0425d138 {
+  width: 176rpx;
+  height: 176rpx;
+  overflow: hidden;
+  position: relative;
+  margin: 10rpx 0;
+}
+.addInvoice-info ._ul ._li .dd-img ._i.data-v-0425d138 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+}
+.addInvoice-info ._ul ._li .dd-img ._img.data-v-0425d138 {
+  width: 140rpx;
+  height: 140rpx;
+  margin: 18rpx 0 0 18rpx;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img ._h4.data-v-0425d138 {
+  margin: 30rpx 0;
+  font-size: 28rpx;
+  padding-left: 30rpx;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img .addInvoice-text-img-box .show-apply-img.data-v-0425d138 {
+  overflow: hidden;
+  zoom: 1;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img .addInvoice-text-img-box .show-apply-img ._dd.data-v-0425d138 {
+  position: relative;
+  width: 140rpx;
+  height: 140rpx;
+  float: left;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img .addInvoice-text-img-box .show-apply-img form.data-v-0425d138 {
+  width: 136rpx;
+  height: 136rpx;
+  background: #fff;
+  border: 1px dashed #d2d2d2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img .addInvoice-text-img-box .show-apply-img form ._i.data-v-0425d138 {
+  font-size: 57rpx;
+  color: #d2d2d2;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img .addInvoice-text-img-box .show-apply-img form ._p.data-v-0425d138 {
+  color: #d2d2d2;
+  font-size: 18rpx;
+}
+.addInvoice-info ._ul ._li .addInvoice-text-img .addInvoice-text-img-box .show-apply-img form input[type="file"].data-v-0425d138 {
+  width: 136rpx;
+  height: 136rpx;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+.addInvoice ._p.data-v-0425d138 {
+  font-size: 24rpx;
+  color: #b79f77;
+  padding: 0 30rpx;
+  margin-top: 10rpx;
+}
+.addInvoice-btn.data-v-0425d138 {
+  font-size: 32rpx;
+  height: 96rpx;
+  width: 100%;
+  color: #fff;
+  line-height: 96rpx;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  background: #b79f77;
+}
+

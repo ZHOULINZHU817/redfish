@@ -1,0 +1,100 @@
+
+.auto.data-v-1d535756 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-1d535756 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-1d535756 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-1d535756 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-1d535756 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-1d535756 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-1d535756 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-1d535756 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-1d535756 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-1d535756 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-1d535756 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-1d535756 {
+  font-size: 30rpx;
+}
+.wallet-box.data-v-1d535756 {
+  background: #fff;
+}
+.wallet-header.data-v-1d535756 {
+  background: #fff;
+  padding: 110rpx 30rpx 30rpx;
+  font-size: 26rpx;
+}
+.wallet-header ._span.data-v-1d535756 {
+  font-size: 40rpx;
+  color: red;
+}
+.wallet-header--btn.data-v-1d535756 {
+  background: #fff;
+  font-size: 26rpx;
+  padding: 0rpx 28rpx;
+}
+.wallet-header .flex.data-v-1d535756:first-child {
+  margin-bottom: 20rpx;
+}
+.wallet-tab.data-v-1d535756 {
+  margin: 20rpx 30rpx 0;
+}
+.wallet-tab .tab-ul.data-v-1d535756 {
+  height: 76rpx;
+  line-height: 76rpx;
+  border: 1rpx solid #e0e0e0;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  text-align: center;
+  font-size: 26rpx;
+}
+.wallet-tab .tab-ul ._li.data-v-1d535756:first-child {
+  border-right: 1rpx solid #e0e0e0;
+  -webkit-border-radius: 10rpx 0 0 10rpx;
+          border-radius: 10rpx 0 0 10rpx;
+}
+.wallet-tab .tab-ul ._li.data-v-1d535756:last-child {
+  -webkit-border-radius: 0rpx 10rpx 10rpx 0rpx;
+          border-radius: 0rpx 10rpx 10rpx 0rpx;
+}
+.wallet-tab .tab-ul ._li.active.data-v-1d535756 {
+  color: #fff;
+}
+.tab-main ._ul ._li.data-v-1d535756 {
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #e0e0e0;
+}
+.tab-main ._ul ._li ._p.data-v-1d535756 {
+  line-height: 40rpx;
+}
+

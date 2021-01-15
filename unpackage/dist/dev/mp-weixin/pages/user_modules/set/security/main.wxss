@@ -1,0 +1,75 @@
+
+.auto.data-v-45daff78 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-45daff78 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-45daff78 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-45daff78 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-45daff78 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-45daff78 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-45daff78 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-45daff78 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-45daff78 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-45daff78 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-45daff78 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-45daff78 {
+  font-size: 30rpx;
+}
+.security-page.data-v-45daff78 {
+  width: 100%;
+  height: 100%;
+  background-color: #fafafa;
+}
+.security-page .content.data-v-45daff78 {
+  padding-top: 90rpx;
+}
+.security-page .content .phone-bind.data-v-45daff78 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 40rpx 30rpx;
+}
+.security-page .content .phone-bind .left-text.data-v-45daff78 {
+  color: #333;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.security-page .icon-xiangyou.data-v-45daff78 {
+  font-size: 36rpx;
+}
+

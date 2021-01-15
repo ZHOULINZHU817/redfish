@@ -1,0 +1,166 @@
+
+.auto.data-v-790f2f00 {
+  width: 90%;
+  margin: 0 5%;
+}
+.flex.data-v-790f2f00 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-item1.data-v-790f2f00 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flex-item2.data-v-790f2f00 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.align--center.data-v-790f2f00 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.justify--center.data-v-790f2f00 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.f-s22.data-v-790f2f00 {
+  font-size: 22rpx;
+}
+.f-s23.data-v-790f2f00 {
+  font-size: 23rpx;
+}
+.f-s24.data-v-790f2f00 {
+  font-size: 24rpx;
+}
+.f-s26.data-v-790f2f00 {
+  font-size: 26rpx;
+}
+.f-s28.data-v-790f2f00 {
+  font-size: 28rpx;
+}
+.f-s30.data-v-790f2f00 {
+  font-size: 30rpx;
+}
+.orderList.data-v-790f2f00 {
+  width: 100%;
+}
+.orderList-info.data-v-790f2f00 {
+  margin-top: 90rpx;
+}
+.orderList-info ._ol ._li.data-v-790f2f00 {
+  border-bottom: 20rpx solid #fafafa;
+  padding: 0 30rpx;
+  background: #fff;
+}
+.orderList-info ._ol ._li.data-v-790f2f00:first-child {
+  border-top: 20rpx solid #fafafa;
+}
+.orderList-info ._ol ._li.data-v-790f2f00:last-child {
+  border-bottom: 0;
+}
+.orderList-info ._ol ._li ._a .order-status.data-v-790f2f00 {
+  height: 79rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-bottom: 1rpx solid #f6f6f8;
+}
+.orderList-info ._ol ._li ._a .order-status > ._div.data-v-790f2f00 {
+  font-size: 26rpx;
+}
+.orderList-info ._ol ._li ._a .order-msg.data-v-790f2f00 {
+  padding: 15rpx 0 48rpx 0;
+  border-bottom: 1rpx solid #f6f6f8;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.orderList-info ._ol ._li ._a .order-msg ._img.data-v-790f2f00 {
+  width: 130rpx;
+  height: 130rpx;
+  margin-right: 20rpx;
+}
+.orderList-info ._ol ._li ._a .order-msg > ._div.data-v-790f2f00 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.orderList-info ._ol ._li ._a .order-msg > ._div ._p.data-v-790f2f00 {
+  font-size: 26rpx;
+  color: #333;
+  margin: 12rpx 0 25rpx 0;
+}
+.orderList-info ._ol ._li ._a .order-msg > ._div .currentP.data-v-790f2f00 {
+  width: 380rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.orderList-info ._ol ._li ._a .order-msg > ._div ._h6.data-v-790f2f00 {
+  font-size: 24rpx;
+  color: #999;
+}
+.orderList-info ._ol ._li ._a .order-btn.data-v-790f2f00 {
+  height: 88rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.orderList-info ._ol ._li ._a .order-btn ._div.data-v-790f2f00:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.orderList-info ._ol ._li ._a .order-btn ._div:first-child ._i.data-v-790f2f00 {
+  margin-left: 10rpx;
+}
+.orderList-info ._ol ._li ._a .order-btn ._span.data-v-790f2f00 {
+  display: inline-block;
+  border: 1rpx solid #d4d4d4;
+  line-height: 46rpx;
+  -webkit-border-radius: 26rpx;
+          border-radius: 26rpx;
+  padding: 0 20rpx;
+  font-size: 22rpx;
+  color: #666;
+  margin-right: 20rpx;
+}
+.orderList-info ._ol ._li ._a .order-btn ._span.data-v-790f2f00:last-child {
+  margin-right: 0;
+}
+.orderList-nulls.data-v-790f2f00 {
+  height: calc(100% - 202rpx);
+  text-align: center;
+}
+.orderList-nulls ._img.data-v-790f2f00 {
+  width: 424rpx;
+  height: 311rpx;
+  margin: 280rpx auto 0;
+}
+
